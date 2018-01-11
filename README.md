@@ -1,4 +1,5 @@
 
+Developer time was of 2:00h.
 Is needed is installed apache server and php to run.
 
 
